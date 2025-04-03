@@ -135,7 +135,7 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "2024 - Present",
     points: [
-      "Building AI-powered applications using Python and OpenAI",
+      "Building AI-powered applications using JavaScript and OpenAI",
       "Working with natural language processing and voice recognition",
       "Implementing real-time communication systems",
       "Developing intelligent automation solutions",
