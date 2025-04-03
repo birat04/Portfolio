@@ -120,7 +120,7 @@ const experiences = [
     company_name: "Self Learning",
     icon: web,
     iconBg: "#383E56",
-    date: "2023 - Present",
+    date: "2024 - Present",
     points: [
       "Learning and building projects using MongoDB, Express.js, React.js, and Node.js",
       "Developing full-stack applications with modern web technologies",
@@ -133,7 +133,7 @@ const experiences = [
     company_name: "Personal Projects",
     icon: backend,
     iconBg: "#E6DEDD",
-    date: "2023 - Present",
+    date: "2024 - Present",
     points: [
       "Building AI-powered applications using Python and OpenAI",
       "Working with natural language processing and voice recognition",
@@ -146,7 +146,7 @@ const experiences = [
     company_name: "Freelance Projects",
     icon: creator,
     iconBg: "#383E56",
-    date: "2023 - Present",
+    date: "2024 - Present",
     points: [
       "Creating responsive websites using React and modern CSS frameworks",
       "Building subscription management and tracking systems",
@@ -159,7 +159,7 @@ const experiences = [
     company_name: "Learning Projects",
     icon: mobile,
     iconBg: "#E6DEDD",
-    date: "2023 - Present",
+    date: "2024 - Present",
     points: [
       "Building RESTful APIs with Node.js and Express",
       "Working with MongoDB for database management",
@@ -203,7 +203,7 @@ const projects = [
       "An advanced AI-powered voice agent that provides real-time conversation capabilities. Features include natural language processing, voice recognition, and intelligent response generation.",
     tags: [
       {
-        name: "python",
+        name: "MERN Stack",
         color: "blue-text-gradient",
       },
       {
@@ -228,7 +228,7 @@ const projects = [
       "A personal finance application that helps users manage and track their subscriptions. Features include expense tracking, renewal reminders, and subscription analytics.",
     tags: [
       {
-        name: "react",
+        name: "MERN Stack",
         color: "blue-text-gradient",
       },
       {
@@ -253,7 +253,7 @@ const projects = [
       "An intelligent bridge between different platforms and services, providing seamless integration and automation capabilities. Features include API integration, data synchronization, and workflow automation.",
     tags: [
       {
-        name: "nodejs",
+        name: "NEXT JS",
         color: "blue-text-gradient",
       },
       {
